@@ -1,1 +1,5 @@
 # LGM_task1_ZIPPY
+
+COMPLETED TASK 1 IN LETSGROWMORE INTERNSHIP
+
+ https://parthnanda7.github.io/LGM_task1_ZIPPY/
